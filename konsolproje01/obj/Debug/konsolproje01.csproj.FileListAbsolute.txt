@@ -1,0 +1,12 @@
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\bin\Debug\konsolproje01.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\bin\Debug\konsolproje01.exe
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\bin\Debug\konsolproje01.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.Form1.resources
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.exe
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\konsolproje01\obj\Debug\konsolproje01.Helloword.resources
