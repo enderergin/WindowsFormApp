@@ -1,0 +1,12 @@
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\bin\Debug\formproje02.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\bin\Debug\formproje02.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\bin\Debug\formproje02.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.Form1.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\formproje02\obj\Debug\formproje02.PopForm.resources
