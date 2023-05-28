@@ -1,0 +1,11 @@
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\bin\Debug\konsolApp04.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\bin\Debug\konsolApp04.exe
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\bin\Debug\konsolApp04.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.Form1.resources
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.exe
+C:\Users\CASPER\Desktop\Notlar\C#\konsolApp04\obj\Debug\konsolApp04.pdb
