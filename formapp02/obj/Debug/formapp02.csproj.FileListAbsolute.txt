@@ -1,0 +1,11 @@
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\bin\Debug\formapp02.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\bin\Debug\formapp02.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\bin\Debug\formapp02.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.Form1.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formapp02\obj\Debug\formapp02.pdb
