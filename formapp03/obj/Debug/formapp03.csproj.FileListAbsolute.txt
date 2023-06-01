@@ -1,0 +1,12 @@
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\bin\Debug\formapp03.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\bin\Debug\formapp03.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\bin\Debug\formapp03.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.Form1.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.MusteriKayit.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formapp03\obj\Debug\formapp03.pdb
