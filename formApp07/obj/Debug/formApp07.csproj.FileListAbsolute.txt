@@ -1,0 +1,12 @@
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\bin\Debug\formApp07.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\bin\Debug\formApp07.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\bin\Debug\formApp07.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.Form1.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.Properties.Resources.resources
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.csproj.GenerateResource.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.exe
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\formApp07\obj\Debug\formApp07.KullaniciUrunSecim.resources
