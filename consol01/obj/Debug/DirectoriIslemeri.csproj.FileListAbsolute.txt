@@ -1,0 +1,8 @@
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\bin\Debug\consol01.exe.config
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\bin\Debug\consol01.exe
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\bin\Debug\consol01.pdb
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\obj\Debug\DirectoriIslemeri.csproj.AssemblyReference.cache
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\obj\Debug\DirectoriIslemeri.csproj.SuggestedBindingRedirects.cache
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\obj\Debug\DirectoriIslemeri.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\obj\Debug\consol01.exe
+C:\Users\CASPER\Desktop\Notlar\C#\consol01\obj\Debug\consol01.pdb
